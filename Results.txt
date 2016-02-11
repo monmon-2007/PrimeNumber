@@ -1,0 +1,240 @@
+got it
+The first number is: 370261.0
+The Second number is: 370373.0
+The Gab is: 112.0
+got it
+The first number is: 396733.0
+The Second number is: 396833.0
+The Gab is: 100.0
+got it
+The first number is: 492113.0
+The Second number is: 492227.0
+The Gab is: 114.0
+got it
+The first number is: 838249.0
+The Second number is: 838349.0
+The Gab is: 100.0
+got it
+The first number is: 1098847.0
+The Second number is: 1098953.0
+The Gab is: 106.0
+got it
+The first number is: 1313467.0
+The Second number is: 1313567.0
+The Gab is: 100.0
+got it
+The first number is: 1349533.0
+The Second number is: 1349651.0
+The Gab is: 118.0
+got it
+The first number is: 1357201.0
+The Second number is: 1357333.0
+The Gab is: 132.0
+got it
+The first number is: 1388483.0
+The Second number is: 1388587.0
+The Gab is: 104.0
+got it
+The first number is: 1444309.0
+The Second number is: 1444411.0
+The Gab is: 102.0
+got it
+The first number is: 1468277.0
+The Second number is: 1468387.0
+The Gab is: 110.0
+got it
+The first number is: 1561919.0
+The Second number is: 1562051.0
+The Gab is: 132.0
+got it
+The first number is: 1648081.0
+The Second number is: 1648181.0
+The Gab is: 100.0
+got it
+The first number is: 1655707.0
+The Second number is: 1655807.0
+The Gab is: 100.0
+got it
+The first number is: 1664123.0
+The Second number is: 1664227.0
+The Gab is: 104.0
+got it
+The first number is: 1671781.0
+The Second number is: 1671907.0
+The Gab is: 126.0
+got it
+The first number is: 1761187.0
+The Second number is: 1761289.0
+The Gab is: 102.0
+got it
+The first number is: 1775069.0
+The Second number is: 1775171.0
+The Gab is: 102.0
+got it
+The first number is: 1889831.0
+The Second number is: 1889957.0
+The Gab is: 126.0
+got it
+The first number is: 1895359.0
+The Second number is: 1895479.0
+The Gab is: 120.0
+got it
+The first number is: 2010733.0
+The Second number is: 2010881.0
+The Gab is: 148.0
+got it
+The first number is: 2127163.0
+The Second number is: 2127269.0
+The Gab is: 106.0
+got it
+The first number is: 2238823.0
+The Second number is: 2238931.0
+The Gab is: 108.0
+got it
+The first number is: 2242549.0
+The Second number is: 2242651.0
+The Gab is: 102.0
+got it
+The first number is: 2243987.0
+The Second number is: 2244091.0
+The Gab is: 104.0
+got it
+The first number is: 2305169.0
+The Second number is: 2305271.0
+The Gab is: 102.0
+got it
+The first number is: 2314439.0
+The Second number is: 2314547.0
+The Gab is: 108.0
+got it
+The first number is: 2345989.0
+The Second number is: 2346089.0
+The Gab is: 100.0
+got it
+The first number is: 2597981.0
+The Second number is: 2598091.0
+The Gab is: 110.0
+got it
+The first number is: 2614883.0
+The Second number is: 2614987.0
+The Gab is: 104.0
+got it
+The first number is: 2637799.0
+The Second number is: 2637911.0
+The Gab is: 112.0
+got it
+The first number is: 2784373.0
+The Second number is: 2784473.0
+The Gab is: 100.0
+got it
+The first number is: 2867107.0
+The Second number is: 2867213.0
+The Gab is: 106.0
+got it
+The first number is: 2898239.0
+The Second number is: 2898359.0
+The Gab is: 120.0
+got it
+The first number is: 3064751.0
+The Second number is: 3064861.0
+The Gab is: 110.0
+got it
+The first number is: 3117299.0
+The Second number is: 3117421.0
+The Gab is: 122.0
+got it
+The first number is: 3225539.0
+The Second number is: 3225647.0
+The Gab is: 108.0
+got it
+The first number is: 3240983.0
+The Second number is: 3241093.0
+The Gab is: 110.0
+got it
+The first number is: 3254959.0
+The Second number is: 3255059.0
+The Gab is: 100.0
+got it
+The first number is: 3279841.0
+The Second number is: 3279949.0
+The Gab is: 108.0
+got it
+The first number is: 3359113.0
+The Second number is: 3359221.0
+The Gab is: 108.0
+got it
+The first number is: 3392341.0
+The Second number is: 3392443.0
+The Gab is: 102.0
+got it
+The first number is: 3422813.0
+The Second number is: 3422917.0
+The Gab is: 104.0
+got it
+The first number is: 3453833.0
+The Second number is: 3453943.0
+The Gab is: 110.0
+got it
+The first number is: 3583417.0
+The Second number is: 3583529.0
+The Gab is: 112.0
+got it
+The first number is: 3592109.0
+The Second number is: 3592213.0
+The Gab is: 104.0
+got it
+The first number is: 3593203.0
+The Second number is: 3593311.0
+The Gab is: 108.0
+got it
+The first number is: 3595489.0
+The Second number is: 3595589.0
+The Gab is: 100.0
+got it
+The first number is: 3826019.0
+The Second number is: 3826157.0
+The Gab is: 138.0
+got it
+The first number is: 3828973.0
+The Second number is: 3829079.0
+The Gab is: 106.0
+got it
+The first number is: 3851459.0
+The Second number is: 3851587.0
+The Gab is: 128.0
+got it
+The first number is: 3933599.0
+The Second number is: 3933731.0
+The Gab is: 132.0
+got it
+The first number is: 4044077.0
+The Second number is: 4044179.0
+The Gab is: 102.0
+got it
+The first number is: 4047157.0
+The Second number is: 4047257.0
+The Gab is: 100.0
+got it
+The first number is: 4131109.0
+The Second number is: 4131223.0
+The Gab is: 114.0
+got it
+The first number is: 4166893.0
+The Second number is: 4166999.0
+The Gab is: 106.0
+got it
+The first number is: 4234537.0
+The Second number is: 4234651.0
+The Gab is: 114.0
+got it
+The first number is: 4297093.0
+The Second number is: 4297199.0
+The Gab is: 106.0
+got it
+The first number is: 4315607.0
+The Second number is: 4315709.0
+The Gab is: 102.0
+got it
+The first number is: 4359403.0
+The Second number is: 4359503.0
+The Gab is: 100.0
